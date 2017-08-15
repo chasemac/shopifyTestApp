@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A9C942379C1E6BC73E46E0F661B4ADC39F214F1B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "150992371D08DE0BC2C0F7D24AB62392DB6F1E4C" : 9223372036854775807,
+    "06AB115D7349226B74AC14C6D6998F5B1EA7166E" : 9223372036854775807,
+    "A9C942379C1E6BC73E46E0F661B4ADC39F214F1B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3B11527D-3EDD-41FF-8E79-4845144FF1D4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "150992371D08DE0BC2C0F7D24AB62392DB6F1E4C" : "shopifyTestApp\/Buy\/",
+    "06AB115D7349226B74AC14C6D6998F5B1EA7166E" : "shopifyTestApp\/Buy\/Dependencies\/Swift%20Gen\/",
+    "A9C942379C1E6BC73E46E0F661B4ADC39F214F1B" : "shopifyTestApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "shopifyTestApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "shopifyTestApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Shopify\/graphql_swift_gen.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "06AB115D7349226B74AC14C6D6998F5B1EA7166E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shopify\/mobile-buy-sdk-ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "150992371D08DE0BC2C0F7D24AB62392DB6F1E4C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chasemac\/shopifyTestApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9C942379C1E6BC73E46E0F661B4ADC39F214F1B"
+    }
+  ]
+}
