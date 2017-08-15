@@ -1,0 +1,3 @@
+[submodule "Buy"]
+	path = Buy
+	url = https://github.com/shopify/mobile-buy-sdk-ios
